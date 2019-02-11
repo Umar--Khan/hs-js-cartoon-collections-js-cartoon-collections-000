@@ -31,7 +31,7 @@ function findTheCheese (foods) {
       string += `${foods[i]}`
       return string
       }
-      continue
+      continue;
     }
   return "no cheese!"
 }
